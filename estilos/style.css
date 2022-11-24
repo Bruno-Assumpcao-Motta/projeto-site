@@ -3,7 +3,7 @@
     font-size: 16px;
 }
 body {
-    background-color: rgba(17, 110, 209, 0.798);
+    background-color: rgb(16, 118, 197);
 }
 main {
     background-color: white;
@@ -11,4 +11,12 @@ main {
     margin: auto;
     padding: 10px;
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.672);
+
+   
+
 }
+img {
+    width: 500px
+}
+    
+    
