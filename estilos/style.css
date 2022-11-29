@@ -22,6 +22,12 @@ header img {
     padding: 20px;
     margin: auto;
 }
+article h2 {
+    font-size: 30px;
+}
+article p {
+    font-size: 25px;
+}
 img {
     width: 600px;
     display: flex;
@@ -41,8 +47,9 @@ legend h2 {
 }
 footer h2 {
     color: white;
-    font-size: 30px;
+    font-size: 25px;
     margin: auto;
+    
     
     
 }    
@@ -54,3 +61,4 @@ footer {
     padding: 10px;
     justify-content: center;
 }
+
