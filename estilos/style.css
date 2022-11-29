@@ -14,7 +14,7 @@ main {
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.672);
 }
 header img {
-    width: 100px;
+    width: 200px;
     padding: 20px;
     margin: auto;
 }
@@ -30,6 +30,17 @@ legend h2 {
     margin: auto;
 }
 footer h2 {
+    color: white;
     font-size: 30px;
     margin: auto;
+    
+    
 }    
+footer {
+    background-color: #1e1e1e;
+    display: flex;
+    width: 800px;
+    margin: auto;
+    padding: 10px;
+    justify-content: center;
+}
