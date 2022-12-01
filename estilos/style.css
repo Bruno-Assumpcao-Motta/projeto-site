@@ -31,6 +31,10 @@ header img {
 }
 article h2 {
     font-size: 22px;
+    display: flex;
+    padding: 5px;
+    margin: auto;
+    justify-content: center;
 }
 
 img {
