@@ -13,15 +13,29 @@ main {
 header img {
     display: flex;
     width: 400px;
-    padding: 20px;
+    padding: 5px;
     margin: auto;
     justify-content: center;
 
 }
 header h2 {
     display: flex;
-    padding: 20px;
+    padding: 5px;
     margin: auto;
     justify-content: center;
     align-items: center;
+}
+article {
+    display: flex;
+    padding: 5px;
+    margin: auto;
+    justify-content: center;
+
+
+}
+input {
+    display: flex;
+    padding: 5px;
+    margin: auto;
+    justify-content: center;
 }
