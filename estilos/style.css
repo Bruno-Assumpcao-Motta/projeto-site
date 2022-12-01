@@ -1,5 +1,6 @@
 * {
     font-family: Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
     font-size: 16px;
     margin: auto;
 }
@@ -17,19 +18,23 @@ main {
     padding: 10px;
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.672);
 }
+main p {
+    display: flex;
+    padding: 5px;
+    margin: auto;
+    justify-content: center;
+}
 header img {
     width: 200px;
     padding: 20px;
     margin: auto;
 }
 article h2 {
-    font-size: 30px;
+    font-size: 22px;
 }
-article p {
-    font-size: 25px;
-}
+
 img {
-    width: 600px;
+    width: 400px;
     display: flex;
     margin: auto;
     justify-content: center;
@@ -48,6 +53,7 @@ legend h2 {
     align-items: center;
 }
 main legend,p {
+    display: flex;
     font-size: 30px;
     color: rgb(0, 4, 15);
     margin: auto;
@@ -67,8 +73,8 @@ footer {
     background-color: #1e1e1e;
     display: flex;
     width: 800px;
+    padding: 5px;
     margin: auto;
-    padding: 10px;
     justify-content: center;
 }
 
