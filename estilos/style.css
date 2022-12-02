@@ -36,6 +36,9 @@ main p {
 .link:hover {
     color: red;
 }
+.link:visited {
+    color: pink;
+}
 article h2 {
     font-size: 22px;
     display: flex;
