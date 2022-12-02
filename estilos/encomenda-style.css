@@ -41,4 +41,10 @@ input {
 }
 footer {
     width: 20px;
+    display: flex;
+    padding: 5px;
+    
+}
+footer img {
+    width: 100px;
 }

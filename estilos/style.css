@@ -31,15 +31,15 @@ main p {
 }
 .link {
     color: blue;
-    font-size: 30px;
+    font-size: 20px;
+
 }
 .link:hover {
     color: red;
 }
-.link:visited {
-    color: pink;
-}
+
 article h2 {
+    
     font-size: 22px;
     display: flex;
     padding: 5px;
@@ -79,9 +79,7 @@ footer h2 {
     color: white;
     font-size: 30px;
     margin: auto;
-    
-    
-    
+        
 }    
 footer {
     background-color: #1e1e1e;
