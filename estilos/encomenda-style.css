@@ -1,0 +1,50 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: rgb(245, 122, 108);
+}
+main {
+    background-color: white;
+    width: 800px;
+    margin: auto;
+    padding: 10px;
+    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.672);
+}
+header img {
+    display: flex;
+    width: 400px;
+    padding: 5px;
+    margin: auto;
+    justify-content: center;
+
+}
+header h2 {
+    display: flex;
+    padding: 5px;
+    margin: auto;
+    justify-content: center;
+    align-items: center;
+}
+article {
+    display: flex;
+    padding: 5px;
+    margin: auto;
+    justify-content: center;
+
+
+}
+input {
+    display: flex;
+    padding: 5px;
+    margin: auto;
+    justify-content: center;
+}
+footer {
+    width: 20px;
+    display: flex;
+    padding: 5px;
+    
+}
+footer img {
+    width: 100px;
+}
